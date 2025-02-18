@@ -1,5 +1,5 @@
-# EPBD-investment-gap-estimatation
-This repository contains the methodology and the background files for the paper titled "EPBD investment gap estimation".
+# Financing European Union's buildings' decarbonisation strategy
+This repository contains the methodology and the background files for the paper titled "Financing European Union's buildings' decarbonisation strategy".
 
 The Energy Performance of Buildings Directive (EPBD, EU/2024/1275) indicates energy savings to be obtained in both the residential and non-residential sectors. For the expected energy savings by country (Table A3) we used the split indicated in the EPBD (Article 9), prescribing that by 2030 average primary energy use across residential buildings needs to decrease by at least 16 percent compared to 2020, with 55 percent of this reduction to happen in the 43 percent worst-performing buildings. For non-residential buildings (both public and private), the goal is to renovate 16% of the worst energy-performing stock. This difference is significant because the worst-performing buildings consume around twice as much energy as average buildings (European Commission, 2021). Despite non-residential buildings representing about a third of the EU building stock, the projected final energy savings  are 440 TWh in non-residential buildings, 255 TWh in the worst-performing residential buildings, and 208 TWh in the rest of the residential building stock, resulting in a 21% reduction in energy consumption across the entire EU building stock.
 
